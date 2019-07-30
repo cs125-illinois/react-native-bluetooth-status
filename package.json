@@ -1,5 +1,5 @@
 {
-  "name": "@cs125/react-native-bluetooth-status",
+  "name": "react-native-bluetooth-status",
   "version": "1.1.5",
   "description": "React-Native library to query and manage bluetooth state of the device (iOS and Android)",
   "main": "index.js",
